@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi theres 👋
 
 <!--
 **sv7king/sv7king** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
